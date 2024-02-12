@@ -78,6 +78,7 @@ Referencia:
 | 2  |El usuario podra detectar fugas de gases peligrosos como el monoxido de carbono o el gas natural|Alta|            |               |             |
 | 3  |El usuario podra verificar la humedad y temperatura del hogar|Alta|            |               |             |
 | 4  |El usuario tendra la facilidad de encender las luces al momento de que se detecte algun movimiento|Alta||||
+| 5  |El usuario podra encender y apagar las luces de acuerdo a la luz ambiental que exista|Alta|
 
 ## Prototipo en dibujo
 - Coloca la imagen de tu proyecto al iniciar el desarrollo.
