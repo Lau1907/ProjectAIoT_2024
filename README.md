@@ -21,6 +21,7 @@
 | 1  |Sensor de Movimiento|             |        |          |             |
 | 2  |Sensor detector gas natural|             |        |          |             |
 | 3  |Sensor de temperatura|             |        |          |             |
+| 4  |Sensor de luz ambiental| | | | | 
 
 ## Lista del Software utilizado
 | Id | Software | Version | Tipo |
@@ -79,6 +80,7 @@ Referencia:
 | 3  |El usuario podra verificar la humedad y temperatura del hogar|Alta|            |               |             |
 | 4  |El usuario tendra la facilidad de encender las luces al momento de que se detecte algun movimiento|Alta||||
 | 5  |El usuario podra encender y apagar las luces de acuerdo a la luz ambiental que exista|Alta|
+| 6  |El usuario aparte de que pueda detectar movimiento tambien podra capturar imagenes o videos de la camara de seguridad|Alta|
 
 ## Prototipo en dibujo
 - Coloca la imagen de tu proyecto al iniciar el desarrollo.
