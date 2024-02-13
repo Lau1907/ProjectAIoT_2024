@@ -18,17 +18,20 @@
 ## Lista del Hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-| 1  |Sensor de Movimiento|             |        |          |             |
-| 2  |Sensor detector gas natural|             |        |          |             |
-| 3  |Sensor de temperatura|             |        |          |             |
-| 4  |Sensor de luz ambiental| | | | | 
+| 1  |Rasberry PI |es una computadora de bajo costo y con un tamaño compacto, del porte de una tarjeta de crédito, puede ser conectada a un monitor de computador o un TV, y usarse con un mouse y teclado estándar. Es capaz de hacer la mayoría de las tareas típicas de un computador de escritorio, desde navegar en internet, reproducir videos en alta resolución, manipular documentos de ofimática, hasta reproducir juegos.|![image](https://github.com/Lau1907/ProjectAIoT_2024/assets/130590443/9cb8b5c4-d195-40ff-a6e3-18ccfd50aae8)|1|$1589|
+| 2  |Sensor de Temperatura|son componentes eléctricos y electrónicos que, en calidad de sensores, permiten medir la temperatura mediante una señal eléctrica determinada.|![image](https://github.com/Lau1907/ProjectAIoT_2024/assets/130590443/a0a7771d-e3ed-49b1-bb8f-e763573016b9)|1|$50|
+| 3  |Sensor de gas natural|Los detectores de gas utilizan un sensor para cuantificar la agrupación de gases específicos en el clima. |![image](https://github.com/Lau1907/ProjectAIoT_2024/assets/130590443/20b9ac5a-bcc9-48d3-9d55-2968bd190e43)|1|$50|
+| 4  |Sensor de Movimiento|es un dispositivo electrónico que pone en funcionamiento un sistema (encendido o apagado) cuando detecta movimiento en el área o ambiente en el que está instalado.|![image](https://github.com/Lau1907/ProjectAIoT_2024/assets/130590443/eca5771a-8e4d-48f0-aa4f-33bd1fd0ef8a)|1|$77|
+| 5  |Sensor de luz ambiental|se utiliza para detectar el haz de luz reflejado desde el objeto.|![image](https://github.com/Lau1907/ProjectAIoT_2024/assets/130590443/b31987e5-2f83-465c-b26b-ede135d84775)|1|$48|
+| 6  |ESP 32|El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos.|![image](https://github.com/Lau1907/ProjectAIoT_2024/assets/130590443/9035be2e-1764-4c1e-96ce-f53d9c3490cb)|1|$160|
+| 7  |Cables|es un cable con un conector en cada punta, que se usa normalmente para interconectar entre sí los componentes en una placa de pruebas.|![image](https://github.com/Lau1907/ProjectAIoT_2024/assets/130590443/2eeadecd-d56e-4405-9483-6aa8a06bdf01)|60|$60|
 
 ## Lista del Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
-|    |          |         |      |
-|    |          |         |      |
-|    |          |         |      |
+|  1 |Node-RED||      |
+|  2 |MQTT|         |      |
+|  3 |MicroPython|         |      |
 
 ## Visión del proyecto
 ¿Como generar la visión del proyecto?
