@@ -1,5 +1,5 @@
 # ProjectAIoT_2024
-# Nombre del proyecto
+# Seguridad en casa
 ## Integrantes
 |   Nombres Integrantes    | Número Control |
 |--------------------------|----------------|
